@@ -8,6 +8,6 @@ cd game_sdl
 
 run the game:
 ./main
-blob:https://www.facebook.com/1c8d3185-ece0-459b-a323-65cc9091b7cc
+
 
 
