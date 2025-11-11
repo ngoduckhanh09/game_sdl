@@ -8,3 +8,4 @@ cd game_sdl
 
 run the game:
 ./main
+![Uploading Ảnh màn hình 2025-11-12 lúc 00.50.13.png…]()
