@@ -8,7 +8,6 @@ cd game_sdl
 
 run the game:
 ./main
-![Game Screenshot](https://github.com/user-attachments/assets/fb8021ea-f3d4-4035-9326-d050ca595513)
-
+blob:https://www.facebook.com/1c8d3185-ece0-459b-a323-65cc9091b7cc
 
 
