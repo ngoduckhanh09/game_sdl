@@ -10,4 +10,4 @@ run the game:
 ./main
 
 demo:
-!(assets/demo.png)
+![Demo](assets/demo.png)
