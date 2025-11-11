@@ -9,5 +9,4 @@ cd game_sdl
 run the game:
 ./main
 
-demo:
-![Demo](assets/demo.png)
+
