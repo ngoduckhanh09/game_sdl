@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
         return EXIT_FAILURE;
     }
 
-    SDL_Window *window = SDL_CreateWindow("Procedural",
+    SDL_Window *window = SDL_CreateWindow("Tic tac toe",
                                           100, 100,
                                           SCREEN_WIDTH, SCREEN_HEIGHT,
                                           SDL_WINDOW_SHOWN);
